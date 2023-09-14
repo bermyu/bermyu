@@ -25,4 +25,4 @@
    - meditation
 
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=bermyu)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=bermyu.bermyu)
