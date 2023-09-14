@@ -2,8 +2,7 @@
 
 ### I am Berna - an Industrial Designer and future Frontend Developer
 
-[![Linkedin Badge]()
-
+## Currently I am learning:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
@@ -14,6 +13,10 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 
+## I want to learn:
+
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
 
  
  ### My interests: 
@@ -21,4 +24,4 @@
    - jogging
    - meditation
 
-![](https://gitwar.herokuapp.com/badge?username=bermyu)
+
