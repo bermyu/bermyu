@@ -24,4 +24,4 @@
    - meditation
 
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=bermyu.bermyu)
+![](https://komarev.com/ghpvc/?username=bermyu&color=orange)
