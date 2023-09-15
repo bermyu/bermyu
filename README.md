@@ -16,7 +16,6 @@
 ## I want to learn:
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
 
  
  ### My interests: 
