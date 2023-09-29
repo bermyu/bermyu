@@ -1,27 +1,29 @@
-# Hi there! 👋🏻
+# Hi! 👋🏻
 
-### I am Berna - an Industrial Designer and future Frontend Developer
+## I am Berna - an Industrial Designer and future Frontend Developer
 
-## Currently I am learning:
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 
-## I want to learn:
+### Currently I am learning:
 
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,git,mongodb,nextjs,nodejs,react,styledcomponents,mui,figma)](https://skillicons.dev)
 
- 
- ### My interests: 
-   - reading
-   - jogging
-   - meditation
+### I want to learn:
+
+[![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bermyu&show_icons=true&theme=transparent) 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bermyu&layout=compact)](https://github.com/bermyu/github-readme-stats)
+
+
+
+
+
+
+
 
 
 ![](https://komarev.com/ghpvc/?username=bermyu&color=orange)
+
