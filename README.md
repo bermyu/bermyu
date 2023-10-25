@@ -15,15 +15,5 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bermyu&show_icons=true&theme=transparent) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bermyu&layout=compact)](https://github.com/bermyu/github-readme-stats)
-
-
-
-
-
-
-
-
-
 ![](https://komarev.com/ghpvc/?username=bermyu&color=orange)
 
