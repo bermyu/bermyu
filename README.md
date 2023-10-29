@@ -15,5 +15,4 @@ I want to learn:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bermyu&show_icons=true&theme=transparent) 
 
-![](https://komarev.com/ghpvc/?username=bermyu&color=orange)
 
