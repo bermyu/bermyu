@@ -6,7 +6,7 @@ I am Berna, a former industrial designer on a path to becoming a frontend develo
 
 Currently I am learning:
 
-[![My Skills](https://skillicons.dev/icons?i=js,react,html,css,mongodb,nextjs,nodejs,git,styledcomponents,tailwind,mui,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,react,html,css,mongodb,nextjs,nodejs,git,linux,raspberrypi,styledcomponents,tailwind,mui,figma)](https://skillicons.dev)
 
 I want to learn:
 
